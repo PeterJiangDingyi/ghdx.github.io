@@ -1,0 +1,61 @@
+label,x,y
+Other malignant neoplasms,0.49965036,0.108255595
+Other cardiovascular and circulatory diseases,0.86530185,0.5311997
+Paralytic ileus and intestinal obstruction,0.77492416,0.20133905
+Osteoarthritis,0.71894187,0.662484
+Low back pain,0.28677595,0.46195486
+Neck pain,0.9465794,0.7878804
+Schistosomiasis,1.0,0.0
+Lip and oral cavity cancer,0.40747976,0.37042552
+Gallbladder and biliary tract cancer,0.8420815,0.6499411
+Pancreatic cancer,0.4858613,0.69582295
+Malignant skin melanoma,0.028604258,1.0
+Alzheimer's disease and other dementias,0.32192588,0.6699384
+Parkinson's disease,0.8974141,0.37190482
+Idiopathic epilepsy,0.28791708,0.19196294
+Drug use disorders,0.727483,0.459914
+Depressive disorders,0.563909,0.4990585
+Bipolar disorder,0.38593733,0.45912328
+Anxiety disorders,0.49710673,0.37334713
+Eating disorders,0.9676585,0.33418083
+Other musculoskeletal disorders,0.35678452,0.5381669
+Other mental disorders,0.39093935,0.10035436
+Diabetes mellitus,0.63127077,0.3903194
+Chronic kidney disease,0.45945683,0.5272033
+Stomach cancer,0.56214505,0.40915778
+Liver cancer,0.38835868,0.21246162
+"Tracheal, bronchus and lung cancer",0.7048878,0.3893391
+Breast cancer,0.5537683,0.31979278
+Cervical cancer,0.68763506,0.7838341
+Prostate cancer,0.56999075,0.060229108
+Ovarian cancer,0.5641222,0.6659782
+Kidney cancer,0.6486435,0.52545935
+Bladder cancer,0.69291246,0.22777848
+Brain and central nervous system cancer,0.6386201,0.68158823
+Non-Hodgkin lymphoma,0.2231645,0.5343485
+Multiple myeloma,0.9300402,0.46145138
+Leukemia,0.60827315,0.14986104
+Dermatitis,0.7904145,0.56771475
+Psoriasis,0.34451705,0.28781503
+Non-rheumatic valvular heart disease,0.8158345,0.37844855
+Chronic obstructive pulmonary disease,0.18667142,0.17281197
+Asthma,0.39620543,0.62075496
+Interstitial lung disease and pulmonary sarcoidosis,0.44664767,0.3006885
+Other chronic respiratory diseases,0.8328235,0.26386493
+Cirrhosis and other chronic liver diseases,0.64736,0.4547083
+Decubitus ulcer,0.6769222,0.11474396
+Age-related and other hearing loss,0.93724656,0.56948376
+Colon and rectum cancer,0.52679515,0.1832407
+Headache disorders,0.49815306,0.604195
+Esophageal cancer,0.7627016,0.3271077
+Rheumatic heart disease,0.59604603,0.57902706
+Ischemic heart disease,0.50527686,0.25575334
+Stroke,0.60308725,0.24139272
+Hypertensive heart disease,0.7104917,0.54615563
+Alcohol use disorders,0.7601815,0.066434845
+Blindness and vision loss,0.62682104,0.31978515
+Upper digestive system diseases,0.49243665,0.45520267
+Gallbladder and biliary diseases,0.24776821,0.36910117
+Cardiomyopathy and myocarditis,0.69637173,0.30371377
+Atrial fibrillation and flutter,0.0,0.20280358
+Aortic aneurysm,0.82141364,0.46044344
