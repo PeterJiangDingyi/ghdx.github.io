@@ -1,5 +1,5 @@
 library(scatterD3)
-mydata<-read.csv('/home/jiangdingyi/new_jdy/scatter/scatterD3/my/0.csv')
+mydata<-read.csv('diseases.csv')
 scatterD3(data = mydata, x = x, y = y, lab = label,
           #col_var = cyl, symbol_var = am,
           xlab = "X", ylab = "Y", #col_lab = "Cylinders",
