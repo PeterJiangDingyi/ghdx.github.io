@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GHDx disease similarity analysis</title>
+    <link href="index.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+  <div class="container">
+    <div class="left">Tools</div>
+    <div class="center">
+      <iframe width="100%" height="684" frameborder="0"
+  src="https://observablehq.com/embed/8ebba065c452c12c@530?cells=chart"></iframe>
+    </div>
+    <div class="right">Search
+      <div id="top">
+        <p>
+          Typing your Search:<br>
+          <form action="match.py" method="get">
+              Disease 1: <input type="text" name="Disease1">  <br />
+              Disease 2: <input type="text" name="Disease2" />
+              <input type="submit" value="Submit" />
+          </form>
+      </p>
+      </div>
+    <div id="bottom">
+      bottom
+      
+      <PHP
+        echo shell_exec("python match.py --disease1 "Disease1" --disease2 "Disease2" ");
+      >
+    </div>
+      
+    </div> 
+  </div>
+
+  
+</body>
+</html>
